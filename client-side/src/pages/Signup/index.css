@@ -1,0 +1,16 @@
+.bg{
+    background: url("../../images/img.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    
+    
+}
+.s{
+    text-align: center;
+    color: mediumorchid;
+    text-shadow: magenta;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

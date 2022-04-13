@@ -1,0 +1,12 @@
+.form{
+    color: blue;
+    height: 80px;
+    
+}
+.backimage{
+    
+    background-position: center;
+    background-size: cover;
+    height: 780px;
+    width: 100%;
+}

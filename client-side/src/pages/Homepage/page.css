@@ -1,0 +1,23 @@
+.nav{
+    background: url("../../images/london.jpg");
+    background-position: center;
+    background-size: cover;
+    
+    height: 740px;
+    width: 100%;
+}
+.design{
+    font-size: 30px;
+    display: flex;
+    
+    
+}
+.head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white
+    
+}
+.page{
+    margin-left: 450px;
+}

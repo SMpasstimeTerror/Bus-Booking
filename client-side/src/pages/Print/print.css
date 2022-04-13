@@ -1,0 +1,19 @@
+table{
+    margin-top: 50px;
+    text-align: center;
+   
+    width: 450px;
+}
+
+#show th, #show td{
+    padding: 13px;
+}
+.backimage{
+    background: url("../../images/ticket1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 780px;
+    width: 100%;
+}
+
+
